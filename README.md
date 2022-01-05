@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+
+A modified version of Buildspace's wave portal - protein edition! Each transaction adds an amino acid to the larger 'smart' polypeptide chain. Let's build a protein! 
